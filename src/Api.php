@@ -1,6 +1,6 @@
 <?php
 
-namespace Andou;
+namespace Andou\Api;
 
 /**
  * Your own personal Api Fetcher.
